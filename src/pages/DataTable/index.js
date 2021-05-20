@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useMemo } from "react";
-import TableHeader from "../../components";
+import TableHeader from "../../components/DataTable";
 
 const DataTable = () => {
 
