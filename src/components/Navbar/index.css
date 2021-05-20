@@ -1,0 +1,13 @@
+.navbar {
+  padding: 0 1rem;
+  font-weight: bold;
+}
+
+.brand {
+  height: 2.8rem;
+  width: 2.8rem;
+}
+
+.nav-item {
+  font-size: 1.5rem;
+}
